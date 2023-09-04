@@ -11,9 +11,9 @@ export default function App() {
   return (
   <NavigationContainer>
       <Drawer.Navigator initialRouteName="Personnage">
-        <Drawer.Screen name="Index" component={IndexPage} options={{ title: 'Accueil', headerStyle: { backgroundColor: 'rgb(230, 180, 10)',},headerTintColor: '#fff',headerTitleStyle: {fontWeight: 'bold',}, }} />
-        <Drawer.Screen name="Character" component={CharacterPage} options={{ title: 'Fiche Joueur', headerStyle: { backgroundColor: 'rgb(230, 180, 10)',},headerTintColor: '#fff',headerTitleStyle: {fontWeight: 'bold',}, }} />
-        <Drawer.Screen name="History" component={HistoricalPage}  options={{ title: 'Historique', headerStyle: { backgroundColor: 'rgb(230, 180, 10)',},headerTintColor: '#fff',headerTitleStyle: {fontWeight: 'bold',}, }}/>
+        <Drawer.Screen name="Index" component={IndexPage} options={{ title: 'Accueil', headerStyle: { backgroundColor: 'rgb(250,200,40)',},headerTintColor: '#fff',headerTitleStyle: {fontWeight: 'bold',}, }} />
+        <Drawer.Screen name="Character" component={CharacterPage} options={{ title: 'Fiche Joueur', headerStyle: { backgroundColor: 'rgb(250,200,40)',},headerTintColor: '#fff',headerTitleStyle: {fontWeight: 'bold',}, }} />
+        <Drawer.Screen name="History" component={HistoricalPage}  options={{ title: 'Historique', headerStyle: { backgroundColor: 'rgb(250,200,40)',},headerTintColor: '#fff',headerTitleStyle: {fontWeight: 'bold',}, }}/>
       </Drawer.Navigator>
       </NavigationContainer>
   );
