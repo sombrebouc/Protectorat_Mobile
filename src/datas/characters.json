@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "playerLastname": "CHASSANG",
+        "playerFirstname": "Gautier",
+        "playerGameXps": 19,
+        "charatLastname": "",
+        "charactFirstname": "Aïdan",
+        "charactHistory": "Ancien esclave des baronnies...",
+        "charactCountry": "Kersisdal",
+        "characterVillage": "Ceàrdach a ’mhathain (la forge des ours)",
+        "charactAge": 35,
+        "charactStatus": "Chasseur de créatures",
+        "charactTotem": "",
+        "charactEthny": "Shonk-manitou",
+        "charactRace": "Ursidé",
+        "charactEpicTales": "",
+        "charactOrigins": "Ambiani",
+        "charcatFaction": "Le Protectorat"
+    }
+]

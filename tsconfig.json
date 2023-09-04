@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "baseUrl": ".",
+    "paths": {
+      "@pom": ["pom/*"],
+      "@datas": ["/src/datas/*"],
+      "@datatype": ["/dataset/types/*"],
+      "@dataMan": ["/dataset/manager/*"]
+    }
+  },
+  "extends": "@tsconfig/react-native/tsconfig.json"
+}
